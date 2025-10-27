@@ -46,7 +46,7 @@ const Home = () => {
                             className='py-2 px-6 text-lg italic bg-green-700 backdrop-blur-md shadow-lg rounded-lg text-white hover:scale-105 hover:bg-green-600/90 transition-all'
                             onClick={onSubmitHandler}
                         >
-                            Generate
+                            Generate Quote
                         </button>
                     </div>
                 </div>
